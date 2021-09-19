@@ -1,11 +1,10 @@
-# Start your own "Can of Books" App
 
-This repository has starter code to begin work on creating your own online bookshelf.
+Name of feature: _________lab 11_______________________
 
-## What can books do?
+Estimate of time needed to complete: _____4 hr
 
-Books are life-changing. They have the power to enlighten, educate, entertain, heal, and help us grow. Build out this code base to create an web app to track what books have impacted you, and what's recommended to read next.
+Start time: _____2:30
 
-## Use this template
+Finish time: _____6:30
 
-Clone this repo to your own account with the green "Use this template" button. Then, add any collaborators. Now you are ready to start adding features! Deploy your site to let the world know which books have had the greatest impact on you, and what's recommended. Enjoy!
+Actual time needed to complete: _____3 hr
