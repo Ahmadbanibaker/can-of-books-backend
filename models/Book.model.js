@@ -7,6 +7,8 @@ const bookSchema = new mongoose.Schema({
     status: String,
     email: String
 });
+const bookModel = mongoose.model("books", bookSchema);
+
 let seedBook = () => {
     let newBook1 = new bookModel({
         title: 'War and Peace',
@@ -29,11 +31,11 @@ let seedBook = () => {
     newBook1.save();
     newBook2.save();
     newBook3.save();
-}
+};
 
-const bookModel = mongoose.model("books", bookSchema);
 
 module.exports = {
     bookSchema,
-    bookModel
+    bookModel,
+    seedBook
 };
